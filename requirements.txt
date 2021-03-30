@@ -4,7 +4,7 @@ FormEncode==1.2.4
 Mako==0.7.2
 MarkupSafe==0.15
 PasteDeploy==1.5.0
-Pygments==1.5
+Pygments==2.7.4
 SQLAlchemy==0.7.8
 WebOb==1.2
 WebTest==1.4.0
